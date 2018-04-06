@@ -1,0 +1,21 @@
+1/29/2018 6:04:25 PM--Error Message : Unspecified error
+
+------------------Error Source : 
+------------------Error StackTrace :    at MODI.IDocument.Create(String FileOpen)
+   at mpl.Taj.Mifilogin.ExtractTextFromImage(String filePath) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 555
+   at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 79
+
+1/29/2018 6:06:09 PM--Error Message : Unspecified error
+
+------------------Error Source : 
+------------------Error StackTrace :    at MODI.IDocument.Create(String FileOpen)
+   at mpl.Taj.Mifilogin.ExtractTextFromImage(String filePath) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 555
+   at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 79
+
+1/29/2018 6:08:43 PM--Error Message : Unspecified error
+
+------------------Error Source : 
+------------------Error StackTrace :    at MODI.IDocument.Create(String FileOpen)
+   at mpl.Taj.Mifilogin.ExtractTextFromImage(String filePath) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 555
+   at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 79
+

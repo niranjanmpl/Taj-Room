@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{8BAC1233-1F53-4AA7-856F-4627C3F63B4B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>mpl.Taj</RootNamespace>
+    <AssemblyName>mpl.Taj</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>mpl.Taj.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>mpl.Taj.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PlanUpgrade, Version=1.0.5450.30138, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Version6_Upgrade\Taj_Version6_Upgrade\bin\PlanUpgrade.dll</HintPath>
+    </Reference>
+    <Reference Include="RoomFreeAccess">
+      <HintPath>..\..\..\..\..\FreeAccessPackage\SQLServer\Version1\RoomFreeAccess\bin\RoomFreeAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="security">
+      <HintPath>..\..\..\..\..\..\..\PMSPackage\SQLServer\Version1\bin\security.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AutoUpgradePopUp.aspx" />
+    <Content Include="bin\DataBaseV3.dll" />
+    <Content Include="bin\FidelioSMSV2Result.dll" />
+    <Content Include="bin\FidelioSMSV2Result.pdb" />
+    <Content Include="bin\FidelioSMSV2Result.xml" />
+    <Content Include="bin\FreeAccessWithTimeLimit.dll" />
+    <Content Include="bin\LoggerService.dll" />
+    <Content Include="bin\LoggerV3.dll" />
+    <Content Include="bin\mpl.Taj.dll" />
+    <Content Include="bin\mpl.Taj.pdb" />
+    <Content Include="bin\mpl.Taj.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\MsgQueueV3.dll" />
+    <Content Include="bin\Oracle.DataAccess.dll" />
+    <Content Include="bin\PlanUpgrade.dll" />
+    <Content Include="bin\PlanUpgrade.pdb" />
+    <Content Include="bin\PlanUpgrade.xml" />
+    <Content Include="bin\PMSPkgV1_0.dll" />
+    <Content Include="bin\PMSPkgV1_0.pdb" />
+    <Content Include="bin\PMSPkgV1_0.xml" />
+    <Content Include="bin\RoomFreeAccess.dll" />
+    <Content Include="bin\RoomFreeAccess.pdb" />
+    <Content Include="bin\RoomFreeAccess.xml" />
+    <Content Include="bin\security.dll" />
+    <Content Include="bin\TajGuestinfo.dll" />
+    <Content Include="bin\TekRadiusV1.dll" />
+    <Content Include="bin\Web2WinInterface.dll" />
+    <Content Include="Block.aspx" />
+    <Content Include="CheckMemberPassword.aspx" />
+    <Content Include="CheckPassword.aspx" />
+    <Content Include="CheckPwdUpgrade.aspx" />
+    <Content Include="CouponOTP.aspx" />
+    <Content Include="CreateMemberPassword.aspx" />
+    <Content Include="CreatePassword.aspx" />
+    <Content Include="CreatePasswordAfterReset.aspx" />
+    <Content Include="CreatePasswordPopUp.aspx" />
+    <Content Include="CreatePwdUpgrade.aspx" />
+    <Content Include="css3-queries.js" />
+    <Content Include="Default.aspx" />
+    <Content Include="Feedback.aspx" />
+    <Content Include="fonts\Sun-Bold.html" />
+    <Content Include="fonts\Sun-Bold.svg" />
+    <Content Include="fonts\Sun-Light.html" />
+    <Content Include="fonts\Sun-Light.svg" />
+    <Content Include="fonts\Sun-Regular.html" />
+    <Content Include="fonts\Sun-Regular.svg" />
+    <Content Include="fonts\Sun-SemiBold.html" />
+    <Content Include="fonts\Sun-SemiBold.svg" />
+    <Content Include="fonts\Sun.css" />
+    <Content Include="Footer.htm" />
+    <Content Include="GetPlaninfo.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="header.htm" />
+    <Content Include="images\back.jpg" />
+    <Content Include="images\button-up.jpg" />
+    <Content Include="images\button.jpg" />
+    <Content Include="images\img-p2-1.jpg" />
+    <Content Include="images\img-p2-2.jpg" />
+    <Content Include="images\img-p3-1.jpg" />
+    <Content Include="images\img-p3-2.jpg" />
+    <Content Include="images\img-p4-1.jpg" />
+    <Content Include="images\img-p4-2.jpg" />
+    <Content Include="images\img-p5-1.jpg" />
+    <Content Include="images\img-p5-2.jpg" />
+    <Content Include="images\img-p6-1.jpg" />
+    <Content Include="images\img-p6-2.jpg" />
+    <Content Include="images\img1.jpg" />
+    <Content Include="images\img2.jpg" />
+    <Content Include="images\login-bg.jpg" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\logo_mifi.jpg" />
+    <Content Include="images\logo_mifi.png" />
+    <Content Include="images\mainimg-sm.jpg" />
+    <Content Include="images\mainimg.jpg" />
+    <Content Include="images\mainimg2.jpg" />
+    <Content Include="images\mainimg4.jpg" />
+    <Content Include="images\mainimg5.jpg" />
+    <Content Include="images\mainimg6.jpg" />
+    <Content Include="images\menu.png" />
+    <Content Include="images\mob_banner2.jpg" />
+    <Content Include="images\mob_banner4.jpg" />
+    <Content Include="images\mob_banner5.jpg" />
+    <Content Include="images\mob_banner6.jpg" />
+    <Content Include="images\mob_bg.jpg" />
+    <Content Include="images\outlook1.gif" />
+    <Content Include="images\outlook2.gif" />
+    <Content Include="images\outlook3.gif" />
+    <Content Include="images\outlook4.gif" />
+    <Content Include="images\outlook5.gif" />
+    <Content Include="images\outlook_exp1.gif" />
+    <Content Include="images\outlook_exp2.gif" />
+    <Content Include="images\outlook_exp3.gif" />
+    <Content Include="images\outlook_exp4.gif" />
+    <Content Include="images\outlook_exp5.gif" />
+    <Content Include="images\scroll_buttons.png" />
+    <Content Include="images\st1.jpg" />
+    <Content Include="images\st2.jpg" />
+    <Content Include="index.htm" />
+    <Content Include="info.html" />
+    <Content Include="jquery.jscrollpane.css" />
+    <Content Include="js\jquery-1.9.1.min.js" />
+    <Content Include="js\jquery.jscrollpane.js" />
+    <Content Include="js\jquery.jscrollpane.min.js" />
+    <Content Include="js\jquery.mCustomScrollbar.concat.min.js" />
+    <Content Include="js\jquery.mCustomScrollbar.js" />
+    <Content Include="js\jquery.mousewheel.js" />
+    <Content Include="left.htm" />
+    <Content Include="left_Service.htm" />
+    <Content Include="left_Support.htm" />
+    <Content Include="MemberLogin.aspx" />
+    <Content Include="Mifilogin.aspx" />
+    <Content Include="obj\Debug\mpl.Taj.dll" />
+    <Content Include="obj\Debug\mpl.Taj.pdb" />
+    <Content Include="obj\Debug\mpl.Taj.xml" />
+    <Content Include="obj\Debug\Version6.vbproj.FileListAbsolute.txt" />
+    <Content Include="outlook.html" />
+    <Content Include="outlook_express.html" />
+    <Content Include="PlanConfirmation.aspx" />
+    <Content Include="PlanSelection.aspx" />
+    <Content Include="PlanSelectionFreeOver.aspx" />
+    <Content Include="PlanSelectionFreeOverPayAll.aspx" />
+    <Content Include="PlanSelectionPayAll.aspx" />
+    <Content Include="PlanSelectionPayAllTaj.aspx" />
+    <Content Include="PlanSelectionPayAllTIC.aspx" />
+    <Content Include="PlanUpgrade.aspx" />
+    <Content Include="PlanUpgradePayAll.aspx" />
+    <Content Include="PopupTajWebsite.aspx" />
+    <Content Include="popupTIC.aspx" />
+    <Content Include="popup\blank.gif" />
+    <Content Include="popup\fancybox_loading%402x.gif" />
+    <Content Include="popup\fancybox_loading.gif" />
+    <Content Include="popup\fancybox_overlay.png" />
+    <Content Include="popup\fancybox_sprite%402x.png" />
+    <Content Include="popup\fancybox_sprite.png" />
+    <Content Include="popup\helpers\fancybox_buttons.png" />
+    <Content Include="popup\helpers\jquery.fancybox-buttons.css" />
+    <Content Include="popup\helpers\jquery.fancybox-buttons.js" />
+    <Content Include="popup\helpers\jquery.fancybox-media.js" />
+    <Content Include="popup\helpers\jquery.fancybox-thumbs.css" />
+    <Content Include="popup\helpers\jquery.fancybox-thumbs.js" />
+    <Content Include="popup\jquery.fancybox.css" />
+    <Content Include="popup\jquery.fancybox.js" />
+    <Content Include="popup\jquery.fancybox.pack.js" />
+    <Content Include="PremiumOver.aspx" />
+    <Content Include="PremiumOverPayAll.aspx" />
+    <Content Include="Process.aspx" />
+    <Content Include="ReadMe.txt" />
+    <Content Include="ResetPopUp.aspx" />
+    <Content Include="ResetPopUpAfterReset.aspx" />
+    <Content Include="ResetPopUpConfirm.aspx" />
+    <Content Include="ResetPopUpNew.aspx" />
+    <Content Include="ResidentOTP.aspx" />
+    <Content Include="right.htm" />
+    <Content Include="selectaccess.aspx" />
+    <Content Include="Services.aspx" />
+    <Content Include="SndRevBytes.aspx" />
+    <Content Include="support.aspx" />
+    <Content Include="taj.css" />
+    <Content Include="terms.html" />
+    <Content Include="test.html" />
+    <Content Include="Upgrade.aspx" />
+    <Content Include="UserDetails.aspx" />
+    <Content Include="Usererror.aspx" />
+    <Content Include="Userinfo.aspx" />
+    <Content Include="validation.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoUpgradePopUp.aspx.designer.vb">
+      <DependentUpon>AutoUpgradePopUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AutoUpgradePopUp.aspx.vb">
+      <DependentUpon>AutoUpgradePopUp.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Block.aspx.designer.vb">
+      <DependentUpon>Block.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Block.aspx.vb">
+      <DependentUpon>Block.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CheckMemberPassword.aspx.designer.vb">
+      <DependentUpon>CheckMemberPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckMemberPassword.aspx.vb">
+      <DependentUpon>CheckMemberPassword.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CheckPassword.aspx.designer.vb">
+      <DependentUpon>CheckPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckPassword.aspx.vb">
+      <DependentUpon>CheckPassword.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CouponOTP.aspx.designer.vb">
+      <DependentUpon>CouponOTP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CouponOTP.aspx.vb">
+      <DependentUpon>CouponOTP.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CreateMemberPassword.aspx.designer.vb">
+      <DependentUpon>CreateMemberPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateMemberPassword.aspx.vb">
+      <DependentUpon>CreateMemberPassword.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CreatePassword.aspx.designer.vb">
+      <DependentUpon>CreatePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePassword.aspx.vb">
+      <DependentUpon>CreatePassword.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CreatePasswordAfterReset.aspx.designer.vb">
+      <DependentUpon>CreatePasswordAfterReset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePasswordAfterReset.aspx.vb">
+      <DependentUpon>CreatePasswordAfterReset.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CreatePasswordPopUp.aspx.designer.vb">
+      <DependentUpon>CreatePasswordPopUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePasswordPopUp.aspx.vb">
+      <DependentUpon>CreatePasswordPopUp.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Feedback.aspx.designer.vb">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Feedback.aspx.vb">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GetPlaninfo.aspx.designer.vb">
+      <DependentUpon>GetPlaninfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GetPlaninfo.aspx.vb">
+      <DependentUpon>GetPlaninfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MemberLogin.aspx.designer.vb">
+      <DependentUpon>MemberLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MemberLogin.aspx.vb">
+      <DependentUpon>MemberLogin.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Mifilogin.aspx.designer.vb">
+      <DependentUpon>Mifilogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mifilogin.aspx.vb">
+      <DependentUpon>Mifilogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PlanConfirmation.aspx.designer.vb">
+      <DependentUpon>PlanConfirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanConfirmation.aspx.vb">
+      <DependentUpon>PlanConfirmation.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PlanSelection.aspx.designer.vb">
+      <DependentUpon>PlanSelection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanSelection.aspx.vb">
+      <DependentUpon>PlanSelection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PlanSelectionFreeOver.aspx.designer.vb">
+      <DependentUpon>PlanSelectionFreeOver.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanSelectionFreeOver.aspx.vb">
+      <DependentUpon>PlanSelectionFreeOver.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PlanSelectionFreeOverPayAll.aspx.designer.vb">
+      <DependentUpon>PlanSelectionFreeOverPayAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanSelectionFreeOverPayAll.aspx.vb">
+      <DependentUpon>PlanSelectionFreeOverPayAll.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PlanSelectionPayAll.aspx.designer.vb">
+      <DependentUpon>PlanSelectionPayAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanSelectionPayAll.aspx.vb">
+      <DependentUpon>PlanSelectionPayAll.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PlanSelectionPayAllTaj.aspx.designer.vb">
+      <DependentUpon>PlanSelectionPayAllTaj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanSelectionPayAllTaj.aspx.vb">
+      <DependentUpon>PlanSelectionPayAllTaj.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PlanSelectionPayAllTIC.aspx.designer.vb">
+      <DependentUpon>PlanSelectionPayAllTIC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanSelectionPayAllTIC.aspx.vb">
+      <DependentUpon>PlanSelectionPayAllTIC.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PopupTajWebsite.aspx.designer.vb">
+      <DependentUpon>PopupTajWebsite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PopupTajWebsite.aspx.vb">
+      <DependentUpon>PopupTajWebsite.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="popupTIC.aspx.designer.vb">
+      <DependentUpon>popupTIC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="popupTIC.aspx.vb">
+      <DependentUpon>popupTIC.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PremiumOver.aspx.designer.vb">
+      <DependentUpon>PremiumOver.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumOver.aspx.vb">
+      <DependentUpon>PremiumOver.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PremiumOverPayAll.aspx.designer.vb">
+      <DependentUpon>PremiumOverPayAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumOverPayAll.aspx.vb">
+      <DependentUpon>PremiumOverPayAll.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Process.aspx.designer.vb">
+      <DependentUpon>Process.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Process.aspx.vb">
+      <DependentUpon>Process.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PushSMSService.vb" />
+    <Compile Include="ResetPopUp.aspx.designer.vb">
+      <DependentUpon>ResetPopUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPopUp.aspx.vb">
+      <DependentUpon>ResetPopUp.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ResetPopUpAfterReset.aspx.designer.vb">
+      <DependentUpon>ResetPopUpAfterReset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPopUpAfterReset.aspx.vb">
+      <DependentUpon>ResetPopUpAfterReset.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ResetPopUpConfirm.aspx.designer.vb">
+      <DependentUpon>ResetPopUpConfirm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPopUpConfirm.aspx.vb">
+      <DependentUpon>ResetPopUpConfirm.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ResetPopUpNew.aspx.designer.vb">
+      <DependentUpon>ResetPopUpNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPopUpNew.aspx.vb">
+      <DependentUpon>ResetPopUpNew.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ResidentOTP.aspx.designer.vb">
+      <DependentUpon>ResidentOTP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResidentOTP.aspx.vb">
+      <DependentUpon>ResidentOTP.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="selectaccess.aspx.designer.vb">
+      <DependentUpon>selectaccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="selectaccess.aspx.vb">
+      <DependentUpon>selectaccess.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.vb">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Services.aspx.vb">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SndRevBytes.aspx.designer.vb">
+      <DependentUpon>SndRevBytes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SndRevBytes.aspx.vb">
+      <DependentUpon>SndRevBytes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="support.aspx.designer.vb">
+      <DependentUpon>support.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="support.aspx.vb">
+      <DependentUpon>support.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="terms.html.designer.vb">
+      <DependentUpon>terms.html.vb</DependentUpon>
+    </Compile>
+    <Compile Include="terms.html.vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserDetails.aspx.designer.vb">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserDetails.aspx.vb">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Usererror.aspx.designer.vb">
+      <DependentUpon>Usererror.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Usererror.aspx.vb">
+      <DependentUpon>Usererror.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Userinfo.aspx.designer.vb">
+      <DependentUpon>Userinfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Userinfo.aspx.vb">
+      <DependentUpon>Userinfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\mpl.Taj.Resources.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Doc\Proposed Wifi brand standards.pdf" />
+    <None Include="Doc\TieredLoginProcessForTajHotelsV2.docx" />
+    <None Include="Doc\TieredLoginProcessForTajHotelsV2.pdf" />
+    <None Include="fonts\Sun-Bold.eot" />
+    <None Include="fonts\Sun-Bold.otf" />
+    <None Include="fonts\Sun-Bold.ttf" />
+    <None Include="fonts\Sun-Bold.woff" />
+    <None Include="fonts\Sun-Bold.woff2" />
+    <None Include="fonts\Sun-Light.eot" />
+    <None Include="fonts\Sun-Light.otf" />
+    <None Include="fonts\Sun-Light.ttf" />
+    <None Include="fonts\Sun-Light.woff" />
+    <None Include="fonts\Sun-Light.woff2" />
+    <None Include="fonts\Sun-Regular.eot" />
+    <None Include="fonts\Sun-Regular.otf" />
+    <None Include="fonts\Sun-Regular.ttf" />
+    <None Include="fonts\Sun-Regular.woff" />
+    <None Include="fonts\Sun-Regular.woff2" />
+    <None Include="fonts\Sun-SemiBold.eot" />
+    <None Include="fonts\Sun-SemiBold.otf" />
+    <None Include="fonts\Sun-SemiBold.ttf" />
+    <None Include="fonts\Sun-SemiBold.woff" />
+    <None Include="fonts\Sun-SemiBold.woff2" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Version6.vbproj.GenerateResource.Cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="log\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\PMSPackage\Version1\PMSPkgV1_0.vbproj">
+      <Project>{3F1277E2-BD51-470B-BFC0-EEF0EAF82C31}</Project>
+      <Name>PMSPkgV1_0</Name>
+    </ProjectReference>
+    <ProjectReference Include="F:\Hotel projects\TajTICGuestInfo\TajGuestinfo\TajGuestinfo.vbproj">
+      <Project>{6CCA275F-3CCB-4460-9AD7-9E83143D30D2}</Project>
+      <Name>TajGuestinfo</Name>
+    </ProjectReference>
+    <ProjectReference Include="F:\Hotel projects\TekRadiusV1\VS2010-FrameWork4.0\TekRadiusV1.vbproj">
+      <Project>{509A140B-AE9E-44CF-BC9F-5F78B1459A6F}</Project>
+      <Name>TekRadiusV1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MODI">
+      <Guid>{A5EDEDF4-2BBC-45F3-822B-E60C278A1A79}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54648</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,2073 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mpl.Taj
+</name>
+</assembly>
+<members>
+<member name="F:mpl.Taj.CreatePasswordPopUp.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.HyperLink1">
+	<summary>
+HyperLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordPopUp.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanConfirmation.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanConfirmation.btnyes">
+	<summary>
+btnyes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanConfirmation.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanConfirmation.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUp.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUp.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUp.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.GetPlaninfo.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.usersection">
+	<summary>
+usersection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.OTP">
+	<summary>
+OTP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.btnUpgrade">
+	<summary>
+btnUpgrade control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.selectaccess.btnContinue">
+	<summary>
+btnContinue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.support.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.support.pRoomPlans">
+	<summary>
+pRoomPlans control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.MemberLogin.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.MemberLogin.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.MemberLogin.txtroomno">
+	<summary>
+txtroomno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.MemberLogin.txtlastname">
+	<summary>
+txtlastname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.MemberLogin.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.lblfreeplanname">
+	<summary>
+lblfreeplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.lblstandev">
+	<summary>
+lblstandev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.hdlsgstatus">
+	<summary>
+hdlsgstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.cmbplans">
+	<summary>
+cmbplans control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.txtLongStay">
+	<summary>
+txtLongStay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTIC.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.SndRevBytes.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.AutoUpgradePopUp.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.AutoUpgradePopUp.btnyes">
+	<summary>
+btnyes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.AutoUpgradePopUp.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.AutoUpgradePopUp.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:mpl.Taj.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:mpl.Taj.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:mpl.Taj.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:mpl.Taj._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.hdlsgstatus">
+	<summary>
+hdlsgstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.cmbplans">
+	<summary>
+cmbplans control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.txtLongStay">
+	<summary>
+txtLongStay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOverPayAll.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Block.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Block.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Block.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckPassword.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckPassword.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckPassword.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckPassword.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionFreeOver.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.terms.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.lblHeading">
+	<summary>
+lblHeading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.textCCode">
+	<summary>
+textCCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.drpcountrycode">
+	<summary>
+drpcountrycode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.txtMobileNo">
+	<summary>
+txtMobileNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.hdguestid">
+	<summary>
+hdguestid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.CheckBoxlike">
+	<summary>
+CheckBoxlike control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.CheckBoxIAgree">
+	<summary>
+CheckBoxIAgree control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.btnyes">
+	<summary>
+btnyes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.btnyesAvilData">
+	<summary>
+btnyesAvilData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.btnyesUpdate">
+	<summary>
+btnyesUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.hdbutclick">
+	<summary>
+hdbutclick control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.UserDetails.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Process.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Process.frmprocess">
+	<summary>
+frmprocess control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Process.hdurl">
+	<summary>
+hdurl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.lblfreeplanname">
+	<summary>
+lblfreeplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.lblstandev">
+	<summary>
+lblstandev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.hdlsgstatus">
+	<summary>
+hdlsgstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.cmbplans">
+	<summary>
+cmbplans control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.txtLongStay">
+	<summary>
+txtLongStay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAllTaj.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.hdlsgstatus">
+	<summary>
+hdlsgstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.cmbplans">
+	<summary>
+cmbplans control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.txtLongStay">
+	<summary>
+txtLongStay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOverPayAll.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.usersection">
+	<summary>
+usersection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.txtroomno">
+	<summary>
+txtroomno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.LblError">
+	<summary>
+LblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.txtlastname">
+	<summary>
+txtlastname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.LblError2">
+	<summary>
+LblError2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.OTP">
+	<summary>
+OTP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.txtotp">
+	<summary>
+txtotp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.LblError1">
+	<summary>
+LblError1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.imgotplogin">
+	<summary>
+imgotplogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CouponOTP.BtnResend">
+	<summary>
+BtnResend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.lblfreeplanname">
+	<summary>
+lblfreeplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.lblstandev">
+	<summary>
+lblstandev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelection.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpConfirm.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpConfirm.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpConfirm.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.usersection">
+	<summary>
+usersection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.txtroomno">
+	<summary>
+txtroomno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.txtlastname">
+	<summary>
+txtlastname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.OTP">
+	<summary>
+OTP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.txtotp">
+	<summary>
+txtotp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.imgotplogin">
+	<summary>
+imgotplogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResidentOTP.BtnResend">
+	<summary>
+BtnResend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PopupTajWebsite.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PopupTajWebsite.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PopupTajWebsite.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Usererror.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Usererror.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Usererror.msgPara">
+	<summary>
+msgPara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Usererror.imbbtnback">
+	<summary>
+imbbtnback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckMemberPassword.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckMemberPassword.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckMemberPassword.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CheckMemberPassword.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.HyperLink1">
+	<summary>
+HyperLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePasswordAfterReset.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Feedback.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Feedback.imgbtnsubmit">
+	<summary>
+imgbtnsubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Feedback.imgbtnclose">
+	<summary>
+imgbtnclose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:mpl.Taj.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:mpl.Taj.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:mpl.Taj.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:mpl.Taj.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:mpl.Taj.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:mpl.Taj.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:mpl.Taj.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:mpl.Taj.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:mpl.Taj.popupTIC.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.popupTIC.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.popupTIC.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.services.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreateMemberPassword.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.HyperLink1">
+	<summary>
+HyperLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.Hidden1">
+	<summary>
+Hidden1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.Hidden2">
+	<summary>
+Hidden2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.HyperLink3">
+	<summary>
+HyperLink3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.CreatePassword.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Mifilogin.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Mifilogin.txtlastname">
+	<summary>
+txtlastname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Mifilogin.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.lblfreeplanname">
+	<summary>
+lblfreeplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.lblstandev">
+	<summary>
+lblstandev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.hdlsgstatus">
+	<summary>
+hdlsgstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.cmbplans">
+	<summary>
+cmbplans control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.txtLongStay">
+	<summary>
+txtLongStay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PlanSelectionPayAll.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.PageTitle">
+	<summary>
+PageTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.frmlogin">
+	<summary>
+frmlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.lblplanname">
+	<summary>
+lblplanname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.lblpremdev">
+	<summary>
+lblpremdev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.imgbtnlogin">
+	<summary>
+imgbtnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.hdrdostatus">
+	<summary>
+hdrdostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.PremiumOver.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpAfterReset.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpAfterReset.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpAfterReset.btncancel">
+	<summary>
+btncancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpAfterReset.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpNew.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpNew.btnno">
+	<summary>
+btnno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.ResetPopUpNew.hdchild">
+	<summary>
+hdchild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.frmPostlogin">
+	<summary>
+frmPostlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.hdclickpostUp">
+	<summary>
+hdclickpostUp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.msg">
+	<summary>
+msg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.fb">
+	<summary>
+fb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.lblfeedback">
+	<summary>
+lblfeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.lblprinter">
+	<summary>
+lblprinter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.hdpopup">
+	<summary>
+hdpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.hdpopupconfirm">
+	<summary>
+hdpopupconfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:mpl.Taj.Userinfo.linkUpgrade">
+	<summary>
+linkUpgrade control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

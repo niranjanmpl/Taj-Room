@@ -1,0 +1,221 @@
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\obj\Debug\mpl.Taj.Resources.resources
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\obj\Debug\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\obj\Debug\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\obj\Debug\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\PMSPkgV1_0.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\security.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\RoomFreeAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\Oracle.DataAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\MsgQueueV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\FreeAccessWithTimeLimit.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\FidelioSMSV2Result.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\TajGuestinfo.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\TekRadiusV1.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\Web2WinInterface.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\LoggerV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\DataBaseV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\LoggerService.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\PMSPkgV1_0.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\PMSPkgV1_0.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\PlanUpgrade.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\PlanUpgrade.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\FIDELIO\Non-ITV\SQLServer\Version6\Version6\bin\PlanUpgrade.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\PlanUpgrade.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\PMSPkgV1_0.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\RoomFreeAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\Oracle.DataAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\MsgQueueV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\FreeAccessWithTimeLimit.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\FidelioSMSV2Result.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\TajGuestinfo.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\TekRadiusV1.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\Web2WinInterface.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\LoggerV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\DataBaseV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\LoggerService.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\PlanUpgrade.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\PlanUpgrade.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\PMSPkgV1_0.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\PMSPkgV1_0.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\obj\Debug\mpl.Taj.Resources.resources
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\obj\Debug\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\obj\Debug\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\obj\Debug\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\RoomFreeAccess.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6\Version6\bin\RoomFreeAccess.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\Oracle.DataAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\PMSPkgV1_0.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\RoomFreeAccess.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\obj\Debug\mpl.Taj.Resources.resources
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\obj\Debug\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\obj\Debug\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\obj\Debug\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\PMSPkgV1_0.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\FidelioSMSV2Result.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\MsgQueueV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\TekRadiusV1.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\FreeAccessWithTimeLimit.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\Web2WinInterface.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\LoggerV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\DataBaseV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\LoggerService.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\PMSPkgV1_0.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6_SecureLogin\Version6\bin\RoomFreeAccess.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\PMSPkgV1_0.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\FidelioSMSV2Result.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\Oracle.DataAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\MsgQueueV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\TekRadiusV1.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\FreeAccessWithTimeLimit.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\Web2WinInterface.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\LoggerV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\DataBaseV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\LoggerService.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\PMSPkgV1_0.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\PMSPkgV1_0.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\RoomFreeAccess.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\FidelioSMSV2Result.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\FidelioSMSV2Result.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\FidelioSMSV2Result.XmlSerializers.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\obj\Debug\mpl.Taj.Resources.resources
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\obj\Debug\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\obj\Debug\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\obj\Debug\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\TekRadiusV1.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\TekRadiusV1.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.1_SecureLogin\Version6\bin\RoomFreeAccess.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\PMSPkgV1_0.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\FidelioSMSV2Result.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\Oracle.DataAccess.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\MsgQueueV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\TekRadiusV1.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\FreeAccessWithTimeLimit.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\Web2WinInterface.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\LoggerV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\DataBaseV3.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\LoggerService.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\PMSPkgV1_0.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\PMSPkgV1_0.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\FidelioSMSV2Result.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\FidelioSMSV2Result.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\TekRadiusV1.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\TekRadiusV1.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\FidelioSMSV2Result.XmlSerializers.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\obj\Debug\mpl.Taj.Resources.resources
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\obj\Debug\mpl.Taj.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\obj\Debug\mpl.Taj.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\obj\Debug\mpl.Taj.pdb
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\RoomFreeAccess.xml
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\TajGuestinfo.dll
+E:\Kannan\HotelProject\WebApp\TajHotels\CommonToAllPMS\Version6.2_SecureLogin\Version6\bin\RoomFreeAccess.pdb
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\FidelioSMSV2Result.xml
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\mpl.Taj.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\mpl.Taj.pdb
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\mpl.Taj.xml
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\PMSPkgV1_0.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\TajGuestinfo.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\TekRadiusV1.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\FidelioSMSV2Result.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\Oracle.DataAccess.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\MsgQueueV3.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\FreeAccessWithTimeLimit.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\Web2WinInterface.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\LoggerV3.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\LoggerService.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\PMSPkgV1_0.pdb
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\PMSPkgV1_0.xml
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\TajGuestinfo.pdb
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\TajGuestinfo.xml
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\TekRadiusV1.pdb
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\TekRadiusV1.xml
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\FidelioSMSV2Result.pdb
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\bin\FidelioSMSV2Result.XmlSerializers.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\obj\Debug\mpl.Taj.Resources.resources
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\obj\Debug\mpl.Taj.dll
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\obj\Debug\mpl.Taj.xml
+C:\Users\Aiswariya\Desktop\23-MAR-2016\WebApp\Version6\obj\Debug\mpl.Taj.pdb
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\mpl.Taj.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\mpl.Taj.pdb
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\mpl.Taj.xml
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\PMSPkgV1_0.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\TajGuestinfo.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\TekRadiusV1.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\Oracle.DataAccess.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\MsgQueueV3.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\FreeAccessWithTimeLimit.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\Web2WinInterface.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\LoggerV3.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\LoggerService.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\PMSPkgV1_0.pdb
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\PMSPkgV1_0.xml
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\TajGuestinfo.pdb
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\TajGuestinfo.xml
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\TekRadiusV1.pdb
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\TekRadiusV1.xml
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.pdb
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.xml
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.XmlSerializers.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.Resources.resources
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.dll
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.xml
+C:\Users\Aiswariya\Desktop\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.pdb
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\mpl.Taj.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\mpl.Taj.pdb
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\mpl.Taj.xml
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\PMSPkgV1_0.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\TajGuestinfo.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\TekRadiusV1.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\Oracle.DataAccess.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\MsgQueueV3.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\FreeAccessWithTimeLimit.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\Web2WinInterface.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\LoggerV3.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\LoggerService.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\PMSPkgV1_0.pdb
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\PMSPkgV1_0.xml
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\TajGuestinfo.pdb
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\TajGuestinfo.xml
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\TekRadiusV1.pdb
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\TekRadiusV1.xml
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.pdb
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.xml
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\bin\FidelioSMSV2Result.XmlSerializers.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\Version6.vbprojResolveAssemblyReference.cache
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\Interop.MODI.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\Version6.vbproj.ResolveComReference.cache
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.Resources.resources
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\Version6.vbproj.GenerateResource.Cache
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.dll
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.xml
+F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\obj\Debug\mpl.Taj.pdb

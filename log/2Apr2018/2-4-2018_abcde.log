@@ -1,0 +1,190 @@
+4/2/2018 6:03:30 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:03:30 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:06:31 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:06:31 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:08:34 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:08:34 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:09:29 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:09:29 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:17:35 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:17:35 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:20:57 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:20:57 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:31:00 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:31:00 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:31:47 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:31:47 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:31:47 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='68C44D72C371'></USG>
+4/2/2018 6:31:47 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:31:47 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='68C44D72C371'><USER_NAME >abcde_41_02042018183147795_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>3600</EXPIRY_TIME><ROOM_NUMBER>abcde</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>100</PAYMENT><BANDWIDTH_MAX_UP>1024</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>1024</BANDWIDTH_MAX_DOWN></USG>
+4/2/2018 6:31:47 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:31:47 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='68C44D72C371'></USG>
+4/2/2018 6:31:47 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+4/2/2018 6:31:48 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+4/2/2018 6:31:49 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+4/2/2018 6:31:49 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>abcde_41_02042018183147795_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">3598</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>165329</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:31:51 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+4/2/2018 6:31:51 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>abcde_41_02042018183147795_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">3596</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>165329</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+4/2/2018 6:32:54 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:32:54 PM ==== Authentication Finished =================
+
+
+4/2/2018 6:33:50 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:33:50 PM ==== Authentication Finished =================
+
+
+SMS Sent Successfully
+4/2/2018 6:34:03 PM **** Additional MAC address, MAC : 68C44D72C371
+
+================== Nomadix Command Started ==================
+4/2/2018 6:34:03 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='68C44D72C371'></USG>
+4/2/2018 6:34:03 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>VALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:34:03 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='68C44D72C371'><USER_NAME >abcde_41_02042018183403139_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>3464</EXPIRY_TIME><ROOM_NUMBER>abcde</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>0</PAYMENT><BANDWIDTH_MAX_UP>1024</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>1024</BANDWIDTH_MAX_DOWN></USG>
+4/2/2018 6:34:03 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:34:03 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='68C44D72C371'></USG>
+4/2/2018 6:34:03 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+4/2/2018 6:34:04 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+4/2/2018 6:34:04 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+4/2/2018 6:34:04 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>abcde_41_02042018183403139_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">3463</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>165329</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+4/2/2018 6:34:04 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+4/2/2018 6:34:04 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>abcde_41_02042018183403139_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">3463</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>165329</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+4/2/2018 6:35:07 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:35:07 PM ==== Authentication Finished =================
+
+
+4/2/2018 6:35:08 PM **** Device Limit Reached, MAC : 68C44D72C371
+
+4/2/2018 6:37:16 PM ==== Authentication Started ==================
+--------------------  User id  : abcde
+--------------------  Password : abcde
+--------------------  Auth. Status: SUCCESS
+4/2/2018 6:37:16 PM ==== Authentication Finished =================
+
+
+4/2/2018 6:37:16 PM **** Device Limit Reached, MAC : 68C44D72C371
+

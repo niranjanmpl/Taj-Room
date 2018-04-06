@@ -1,0 +1,28 @@
+1/5/2018 11:51:35 AM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+1/5/2018 11:51:36 AM ---- Number of Stay:-1
+
+1/5/2018 11:51:36 AM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+1/5/2018 11:51:36 AM ==== Authentication Finished =================
+
+
+1/5/2018 11:51:39 AM -- Process Initialized -- MAC: 68C44D72C371
+1/5/2018 11:51:39 AM -- Process Return code: 0 -- MAC: 68C44D72C371
+1/5/2018 11:51:40 AM ---- Number of Stay:-1
+
+1/5/2018 11:51:40 AM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+1/5/2018 11:51:40 AM ==== Authentication Finished =================
+
+
+1/5/2018 11:51:40 AM -- Process Completed -- MAC: 68C44D72C371
+------------------------ END Login from Process -- MAC: 68C44D72C371
+
+1/5/2018 11:51:40 AM -- PMS Response: CREATE SECURE PWD

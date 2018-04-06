@@ -1,0 +1,7 @@
+1/30/2018 10:57:01 AM--Error Message : Unspecified error
+
+------------------Error Source : 
+------------------Error StackTrace :    at MODI.IDocument.Create(String FileOpen)
+   at mpl.Taj.Mifilogin.ExtractTextFromImage(String filePath) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 556
+   at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 80
+

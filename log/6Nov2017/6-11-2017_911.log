@@ -1,0 +1,499 @@
+11/6/2017 12:24:21 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:24:22 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:24:22 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:24:30 PM -- Process Initialized -- MAC: 68C44D72C371
+11/6/2017 12:24:30 PM -- Process Return code: 0 -- MAC: 68C44D72C371
+11/6/2017 12:24:31 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:24:31 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:24:31 PM -- Process Completed -- MAC: 68C44D72C371
+------------------------ END Login from Process -- MAC: 68C44D72C371
+
+11/6/2017 12:24:31 PM -- PMS Response: CREATE SECURE PWD
+11/6/2017 12:25:02 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:25:02 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:25:02 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:25:02 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:25:02 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='68C44D72C371'><USER_NAME >911_158_06112017122502482_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86400</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>800</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:25:02 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:25:02 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:25:02 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:25:02 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:25:04 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:25:04 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017122502482_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86398</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>298749</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:25:05 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:25:05 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017122502482_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86397</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>298749</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:26:54 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:27:18 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:27:18 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:27:26 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:27:26 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:27:26 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:27:26 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:27:26 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='68C44D72C371'><USER_NAME >911_158_06112017122726314_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86257</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>0</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:27:26 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:27:26 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:27:26 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:27:26 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:27:26 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:27:26 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017122726314_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86256</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>5946</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:27:27 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:27:27 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017122726314_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86255</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>6347</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:28:21 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:28:21 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:28:21 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:28:27 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:28:27 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:28:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='3C91573F12F7'></USG>
+11/6/2017 12:28:28 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:28:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='3C91573F12F7'><USER_NAME >911_158_06112017122828118_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86196</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>0</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:28:28 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:28:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='3C91573F12F7'></USG>
+11/6/2017 12:28:28 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:28:28 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:28:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>3C91573F12F7</USER></USG>
+11/6/2017 12:28:29 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>3C91573F12F7</MAC_ADDR><USER_NAME>911_158_06112017122828118_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86195</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>54156</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:28:29 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>3C91573F12F7</USER></USG>
+11/6/2017 12:28:29 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>3C91573F12F7</MAC_ADDR><USER_NAME>911_158_06112017122828118_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86194</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>54156</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:29:06 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:29:30 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:29:30 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:29:36 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:29:36 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:29:37 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='3C91573F12F7'></USG>
+11/6/2017 12:29:37 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:29:37 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='3C91573F12F7'><USER_NAME >911_158_06112017122937158_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86128</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>0</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:29:37 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:29:37 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='3C91573F12F7'></USG>
+11/6/2017 12:29:37 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:29:37 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:29:37 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>3C91573F12F7</USER></USG>
+11/6/2017 12:29:37 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>3C91573F12F7</MAC_ADDR><USER_NAME>911_158_06112017122937158_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86127</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>711</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:29:38 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>3C91573F12F7</USER></USG>
+11/6/2017 12:29:38 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>3C91573F12F7</MAC_ADDR><USER_NAME>911_158_06112017122937158_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86126</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>711</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:31:11 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:31:20 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:31:20 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:31:28 PM -- Process Initialized -- MAC: 3C91573F12F7
+11/6/2017 12:31:28 PM -- Process Return code: 0 -- MAC: 3C91573F12F7
+11/6/2017 12:31:29 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:31:29 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:31:29 PM -- Process Completed -- MAC: 3C91573F12F7
+------------------------ END Login from Process -- MAC: 3C91573F12F7
+
+11/6/2017 12:31:29 PM -- PMS Response: CREATE SECURE PWD
+11/6/2017 12:31:35 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 3C91573F12F7
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:31:35 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:31:36 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='3C91573F12F7'></USG>
+11/6/2017 12:31:36 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:31:36 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='3C91573F12F7'><USER_NAME >911_158_06112017123136059_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86400</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>800</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:31:36 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:31:36 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='3C91573F12F7'></USG>
+11/6/2017 12:31:36 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:31:36 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:31:37 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>3C91573F12F7</USER></USG>
+11/6/2017 12:31:37 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>3C91573F12F7</MAC_ADDR><USER_NAME>911_158_06112017123136059_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86399</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>13220</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:31:38 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>3C91573F12F7</USER></USG>
+11/6/2017 12:31:39 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>3C91573F12F7</MAC_ADDR><USER_NAME>911_158_06112017123136059_3C91573F12F7</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86397</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>13220</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:32:38 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:32:59 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:32:59 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:33:05 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:33:05 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:33:05 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:33:05 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:33:05 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='68C44D72C371'><USER_NAME >911_158_06112017123305792_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86311</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>0</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:33:05 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:33:05 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:33:05 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:33:05 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:33:06 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:33:06 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017123305792_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86310</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>2894</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:33:07 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:33:07 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017123305792_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86309</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>3066</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:33:36 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:33:36 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017123305792_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86281</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>7842</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:34:13 PM --  Entered Room Number as : 911 -- Entered Last Name as : test
+
+11/6/2017 12:34:13 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:34:13 PM ==== Authentication Finished =================
+
+
+11/6/2017 12:34:19 PM --  Entered Secure Password as : 12346
+
+
+11/6/2017 12:34:20 PM -- Invalid secure password.
+
+11/6/2017 12:34:28 PM ==== Authentication Started ==================
+--------------------  Room Number: 911
+--------------------  Last Name: test
+--------------------  MAC: 68C44D72C371
+--------------------  Auth. Status: SUCCESS
+11/6/2017 12:34:28 PM ==== Authentication Finished =================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:34:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_AUTHORIZE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:34:28 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><STATUS>INVALID_USER</STATUS><PAYMENT_METHOD></PAYMENT_METHOD></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:34:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_ADD' MAC_ADDR='68C44D72C371'><USER_NAME >911_158_06112017123428522_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS='SECONDS'>86229</EXPIRY_TIME><ROOM_NUMBER>911</ROOM_NUMBER><PAYMENT_METHOD>ROOM_OPEN</PAYMENT_METHOD><IP_TYPE>Private</IP_TYPE><CONFIRMATION></CONFIRMATION><PAYMENT>0</PAYMENT><BANDWIDTH_MAX_UP>3072</BANDWIDTH_MAX_UP><BANDWIDTH_MAX_DOWN>3072</BANDWIDTH_MAX_DOWN></USG>
+11/6/2017 12:34:28 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:34:28 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='CACHE_UPDATE' MAC_ADDR='68C44D72C371'></USG>
+11/6/2017 12:34:28 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+11/6/2017 12:34:28 PM -- PMS Response: Success
+================== Nomadix Command Started ==================
+11/6/2017 12:34:29 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:34:29 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017123428522_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86228</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>762</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:34:30 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:34:30 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017123428522_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86227</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>762</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+
+================== Nomadix Command Started ==================
+11/6/2017 12:34:36 PM Nomadix URL: http://192.168.0.250:1111/usg/command.xml
+--------------------  Nomadix Command: <USG COMMAND='USER_QUERY'><USER ID_TYPE='MAC_ADDR'>68C44D72C371</USER></USG>
+11/6/2017 12:34:36 PM--Nomadix Response: <USG RESULT="OK" ID="009DB4" IP="192.168.0.250"><MAC_ADDR>68C44D72C371</MAC_ADDR><USER_NAME>911_158_06112017123428522_68C44D72C371</USER_NAME><PASSWORD></PASSWORD><EXPIRY_TIME UNITS="SECONDS">86220</EXPIRY_TIME><ROOM_NUMBER></ROOM_NUMBER><PAYMENT_METHOD></PAYMENT_METHOD><DATA_VOLUME>762</DATA_VOLUME></USG>
+
+
+================== Nomadix Command Ended ==================
+
+

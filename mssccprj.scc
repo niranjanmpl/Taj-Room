@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Version6.sln]
+SCC_Aux_Path = "\\192.168.2.56\VSSDB\Production"
+SCC_Project_Name = "$/TajProjects/TimeBasedPlans/CommonToAllPMS/Nomadix/SecureLogin1/Version6/Version6", UKPDAAAA
+
+[Version6.vbproj]
+SCC_Aux_Path = "\\192.168.2.56\VSSDB\Production"
+SCC_Project_Name = "$/TajProjects/TimeBasedPlans/CommonToAllPMS/Nomadix/SecureLogin1/Version6/Version6", UKPDAAAA

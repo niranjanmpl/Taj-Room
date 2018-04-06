@@ -1,0 +1,24 @@
+1/22/2018 12:04:54 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : mpl.Taj
+------------------Error StackTrace :    at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 67
+
+1/22/2018 12:08:14 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : mpl.Taj
+------------------Error StackTrace :    at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 69
+
+1/22/2018 12:17:38 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : mpl.Taj
+------------------Error StackTrace :    at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 69
+
+1/22/2018 2:56:33 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : mpl.Taj
+------------------Error StackTrace :    at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 70
+
+1/22/2018 3:00:33 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : mpl.Taj
+------------------Error StackTrace :    at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 70
+
+1/22/2018 3:05:21 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : mpl.Taj
+------------------Error StackTrace :    at mpl.Taj.Mifilogin.Page_Load(Object sender, EventArgs e) in F:\Hotel projects\Taj\Taj Latest\WebApp\Version6\Mifilogin.aspx.vb:line 82
+

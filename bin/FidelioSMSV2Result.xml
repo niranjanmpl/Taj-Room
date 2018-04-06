@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FidelioSMSV2Result
+</name>
+</assembly>
+<members>
+<member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.#ctor">
+	<remarks/>
+</member><member name="E:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getAllGNamesCompleted">
+	<remarks/>
+</member><member name="E:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getGNameCompleted">
+	<remarks/>
+</member><member name="E:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.Bill2PMSCompleted">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getAllGNames(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.BegingetAllGNames(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.EndgetAllGNames(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getAllGNamesAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getAllGNamesAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getGName(System.String,System.String,System.Int16,System.String)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.BegingetGName(System.String,System.String,System.Int16,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.EndgetGName(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getGNameAsync(System.String,System.String,System.Int16,System.String)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.getGNameAsync(System.String,System.String,System.Int16,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.Bill2PMS(System.String,System.String,System.Int16,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.BeginBill2PMS(System.String,System.String,System.Int16,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.EndBill2PMS(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.Bill2PMSAsync(System.String,System.String,System.Int16,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.Bill2PMSAsync(System.String,System.String,System.Int16,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.FidelioIFV2">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.getAllGNamesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FidelioSMSV2Result.FidelioSMSV2.getAllGNamesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.getAllGNamesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.getGNameCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FidelioSMSV2Result.FidelioSMSV2.getGNameCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.getGNameCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.Bill2PMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FidelioSMSV2Result.FidelioSMSV2.Bill2PMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FidelioSMSV2Result.FidelioSMSV2.Bill2PMSCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

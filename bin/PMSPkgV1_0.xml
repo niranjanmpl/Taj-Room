@@ -1,0 +1,486 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PMSPkgV1_0
+</name>
+</assembly>
+<members>
+<member name="M:PMSPkgV1_0.ADCAuth710.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ADCAuth710.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.ADCAuth501.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ADCAuth501.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.FidelioPMSServiceV40.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FidelioPMSServiceV40.doAuth(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authentication the Guest Name
+ </summary>
+	<param name="userContext"></param>
+	<returns>TRUE = Valid Guest</returns>
+	<remarks>FALSE= Invalid Guest</remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.IsAlreadyUpgrade_FIDELIO(System.String,System.String)">
+	<summary>
+ Find Device upgrade or not for Room number and lastname
+ </summary>
+	<param name="GuestName">LastName</param>
+	<param name="Roomno">Room Number</param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.IsExistElinaUser(System.String,System.String)">
+	<summary>
+ Check Elina Username password already added in ElinaUser
+ </summary>
+	<param name="UserId"></param>
+	<param name="Password"></param>
+	<returns>Not Avil as FALSE</returns>
+	<remarks>Avil as TRUE</remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.GetErrorDesc(System.String)">
+	<summary>
+ Get the Error Message from the "ErrorCode" Table 
+ </summary>
+	<param name="Variable">ErrorId</param>
+	<returns>ErrorMessage</returns>
+	<remarks>0</remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.FetchRadiusUserName(System.String,System.String)">
+	<summary>
+ Get the LoginSessionid  
+ </summary>
+	<param name="RN">Room Number</param>
+	<param name="RegCode">Reg.Code</param>
+	<returns>LoginSessionId</returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.FetchLoginMAC(System.String,System.String)">
+	<summary>
+ Get the LoginSessionid  
+ </summary>
+	<param name="RN">Room Number</param>
+	<param name="RegCode">Reg.Code</param>
+	<returns>LoginSessionId</returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.IsAvilLogoutOption(System.String)">
+	<summary>
+ Check logout option for show the LOGOUT link in post login page
+ </summary>
+	<param name="PlanId"> Plan Id</param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member><member name="M:PMSPkgV1_0.LogInOutService.MailAlertViaService(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Insert the data's in "MailAlert" table, Windows service will send the mail's
+ </summary>
+	<param name="FromAddr">From Mail Id</param>
+	<param name="ToAddr">To Mail Id</param>
+	<param name="CcAddr">CC Mail Id</param>
+	<param name="BCcAddr">BCC Mail Id</param>
+	<param name="Subject">Mail Subject</param>
+	<param name="Body">Mail Body</param>
+</member><member name="M:PMSPkgV1_0.LogInOutService.IsValidHotspot(System.String)">
+	<summary>
+ Check the Hotspot MAC Address. It is registered or Not
+ </summary>
+	<param name="HotSpotMAC">HotSpot MAC</param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member><member name="M:PMSPkgV1_0.PMSCommonFun.GenerateUniqueId(System.String)">
+	<summary>
+ Generate Unique ID used for Serialize and DeSerialize 
+ </summary>
+	<param name="MAC">MAC Address</param>
+	<returns>Unique ID</returns>
+</member><member name="M:PMSPkgV1_0.PMSCommonFun.remainingTime(System.DateTime,System.DateTime,System.DateTime,System.DateTime,System.Int64)">
+	<summary>
+ Find the Remaining Time with help of logintime and current time
+ </summary>
+	<param name="Ctime"></param>
+	<param name="Itime"></param>
+	<param name="Otime"></param>
+	<param name="Etime"></param>
+	<param name="Ptime"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FidelioPMSServiceV50.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FidelioPMSServiceV50.doAuth(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authentication the Guest Name
+ </summary>
+	<param name="userContext"></param>
+	<returns>TRUE = Valid Guest</returns>
+	<remarks>FALSE= Invalid Guest</remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP001.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP001.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP001.UpdateUserRT(System.String,System.Int64,System.String)">
+	<summary>
+ Update Remaining time to freeradius - "radcheck" table 
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="RT">AccessTime</param>
+	<param name="Logid">Log file id</param>
+	<remarks>Userd in Re-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP002.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP002.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP002.UpdateUserRT(System.String,System.Int64,System.String)">
+	<summary>
+ Update Remaining time to freeradius - "radcheck" table 
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="RT">AccessTime</param>
+	<param name="Logid">Log file id</param>
+	<remarks>Userd in Re-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.IDSPMSWithMiFiV1.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.IDSPMSWithMiFiV1.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.CouponV091.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.CouponV091.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.CouponV009.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.CouponV009.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.MobileAPP004.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.CouponV093.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.CouponV093.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.AMDPMSWithMiFiV1.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.AMDPMSWithMiFiV1.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.IDSPMSV900.DoAuthentication(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authendicate the guest credential (RoomNumber and Reg.Code)
+ </summary>
+	<param name="userCntxt"></param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member><member name="M:PMSPkgV1_0.ProcessService.AvoidParallelProcess(System.String,System.String,System.String)">
+	<summary>
+ Avoid the parallel login for double posting. This is find out the particular user is on process OR over
+ </summary>
+	<param name="Room_number">Room Number</param>
+	<param name="last_name">Last Name</param>
+	<param name="MAC">Machine Id</param>
+	<returns>1= Only one process login, 2=SAME MAC try to login, 3= Different MAC try to login </returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ProcessService.AvoidParallelProcess_LogForPwd(System.String,System.String,System.String)">
+	<summary>
+ Avoid the parallel login for double posting. This is find out the particular user is on process OR over
+ </summary>
+	<param name="Room_number">Room Number</param>
+	<param name="last_name">Last Name</param>
+	<param name="MAC">Machine Id</param>
+	<returns>1= Only one process login, 2=SAME MAC try to login, 3= Different MAC try to login </returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ProcessService.UpdateProcessTbl(System.String,System.String,System.String)">
+	<summary>
+ After Process over, need to update the processstatus as "2"
+ </summary>
+	<param name="RoomNumber">Room Number</param>
+	<param name="Lastname">Last Name</param>
+	<param name="Mac">Machine Id</param>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ProcessService.UpdateProcessTbl_LogForPwd(System.String,System.String,System.String)">
+	<summary>
+ After Process over, need to update the processstatus as "2"
+ </summary>
+	<param name="RoomNumber">Room Number</param>
+	<param name="Lastname">Last Name</param>
+	<param name="Mac">Machine Id</param>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.Coupon_CoovaChilliV001.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.Coupon_CoovaChilliV001.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.Coupon_CoovaChilliV001.UpdateUserRT(System.String,System.Int64,System.String)">
+	<summary>
+ Update Remaining time to freeradius - "radcheck" table 
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="RT">AccessTime</param>
+	<param name="Logid">Log file id</param>
+	<remarks>Userd in Re-Login only</remarks>
+</member><member name="T:PMSPkgV1_0.Coupon_CoovaChilliV001">
+	<summary>
+ Coupon with SMS Authendication
+ </summary>
+	<remarks>
+ Version: 001 
+ Supports BelAir 20E AP Ericssion Ltd
+ </remarks>
+</member><member name="M:PMSPkgV1_0.AmadeusPMSV001.DoAuthentication(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authendication for ROOM guest
+ </summary>
+	<param name="userCntxt"></param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member><member name="M:PMSPkgV1_0.AmadeusPMSV001.DoAuthentication_NR(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authendication for Non-Resident Guest
+ </summary>
+	<param name="userCntxt"></param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member><member name="M:PMSPkgV1_0.FIASPMSV720.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FidelioPMS_006.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FidelioPMS_006.doAuth(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authentication the Guest Name
+ </summary>
+	<param name="userContext"></param>
+	<returns>TRUE = Valid Guest</returns>
+	<remarks>FALSE= Invalid Guest</remarks>
+</member><member name="M:PMSPkgV1_0.AmadeusPMSV300M.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.AmadeusPMSV300.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FIASPMSV710.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.FIASPMSV700.getBalaceInet(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Find the Remaining Time for redirect to New-Login or Re-Login
+ </summary>
+	<param name="userContext"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ADCAuth500.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.ADCAuth500.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.AdsHimsV300.IsAvilRadcheck(System.String)">
+	<summary>
+ Check UserId availability in freeradius "Radcheck" table
+ </summary>
+	<param name="username"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.AdsHimsV300.InsertUserRT(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert Remaining time to freeradius - "radcheck" table
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="password">Password</param>
+	<param name="RT">AccessTime</param>
+	<param name="LogId">Log file Id</param>
+	<remarks>Used in NEW-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.AdsHimsV300.InsertRadReply(System.String,System.String,System.Int64,System.String)">
+	<summary>
+ Insert the RemainingTime to RadReplt Table
+ </summary>
+	<param name="user_name"></param>
+	<param name="password"></param>
+	<param name="RT"></param>
+	<param name="Logid"></param>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.AdsHimsV300.UpdateUserRT(System.String,System.Int64,System.String)">
+	<summary>
+ Update Remaining time to freeradius - "radcheck" table 
+ </summary>
+	<param name="user_name">UserId</param>
+	<param name="RT">AccessTime</param>
+	<param name="Logid">Log file id</param>
+	<remarks>Userd in Re-Login only</remarks>
+</member><member name="M:PMSPkgV1_0.AdsHimsV300.UpdateRadReplyRT(System.String,System.Int64,System.String)">
+	<summary>
+ Update the RemainingTime in radreply table
+ </summary>
+	<param name="user_name"></param>
+	<param name="RT"></param>
+	<param name="Logid"></param>
+	<remarks></remarks>
+</member><member name="M:PMSPkgV1_0.IDSPMSV220.DoAuthenticationWithLN(PMSPkgV1_0.UserContext@)">
+	<summary>
+ Authendicate the guest credential (RoomNumber and LastName)
+ </summary>
+	<param name="userCntxt"></param>
+	<returns>TRUE</returns>
+	<remarks>FALSE</remarks>
+</member>
+</members>
+</doc>
